@@ -30,8 +30,8 @@ Ce projet a pour but de recréer et expérimenter avec certains systèmes emblé
 
 ## 🔄 Versions du projet
 
-- **FF12-like** : Prototype Unity du système de combat et des gambits et d'autres petites choses 
-- **FF12 like try 2** : Celle-ci sur GH, Guide séparé avec calculs et formules de dégâts inspirés du jeu d’origine
+- **FF12-like** : Prototype Unity du système de combat et des gambits et d'autres petites choses.
+- **FF12 like try 2** : Celle-ci sur GH, Guide séparé avec calculs et formules de dégâts inspirés du jeu d’origine.
 
 ---
 
@@ -68,6 +68,12 @@ Pour toute question, suggestion ou retour : **[ouvrir une issue](https://github.
 
 ## 📄 Licence
 
-Ce projet est open-source (licence à définir).  
-Il n’a **aucun lien officiel** avec Square Enix ou la franchise Final Fantasy.
+Ce projet est distribué sous licence **GNU GPL v3**.
+
+Cela signifie que vous êtes libre :
+- d’utiliser, modifier et redistribuer ce projet
+- tant que toute redistribution inclut le **code source**
+- et respecte les termes de la [licence GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
+
+© seb16120 — FF12-like System
 
