@@ -62,7 +62,8 @@ Ce projet a pour but de recréer et expérimenter avec certains systèmes emblé
 ## 📫 Contact & suivi
 
 Créé par [seb16120](https://github.com/seb16120)  
-Pour toute question, suggestion ou retour : **[ouvrir une issue](https://github.com/seb16120/FF12-like-V1/issues)**
+Pour toute soucis, bug, glitch, erreurs : **[ouvrir une issue](https://github.com/seb16120/FF12-like-V1/issues)**
+Pour toute question, suggestion ou retour : **[ouvrir un Topic](https://github.com/seb16120/FF12-like-V1/discussions)**
 
 ---
 
