@@ -1,0 +1,35 @@
+# Exclure tout sauf les fichiers utiles
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Bb]uilds/
+[Ll]ogs/
+.vs/
+UserSettings/
+ProjectSettings/
+*.csproj
+*.sln
+*.user
+*.unity
+*.log
+*.meta
+*.pidb
+*.suo
+*.vsp
+*.pdb
+*.mdb
+*.booproj
+*.svd
+
+# Dossiers typiques à garder : Assets/scripts ou Assets/Game
+# Tu pourras ensuite faire :
+# git add Assets/scripts/ Assets/Game/
+
+# Éditeurs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
