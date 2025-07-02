@@ -1,4 +1,4 @@
-# FF12-like System
+# FF12-like Project
 
 🎮*Un projet expérimental basé sur certains principes de gameplay de Final Fantasy XII (Square Enix), sans en copier les ressources ni le contenu.*
 
@@ -68,12 +68,12 @@ Pour toute question, suggestion ou retour : **[ouvrir une issue](https://github.
 
 ## 📄 Licence
 
-Ce projet est distribué sous licence **GNU GPL v3**.
+Ce projet est distribué sous licence **[GNU GPL v3](LICENSE)**
 
 Cela signifie que vous êtes libre :
 - d’utiliser, modifier et redistribuer ce projet
 - tant que toute redistribution inclut le **code source**
 - et respecte les termes de la [licence GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
 
-© seb16120 — FF12-like System
+© seb16120 — FF12-like Project
 
